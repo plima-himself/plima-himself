@@ -57,7 +57,7 @@
   Where to find me 🗺️
 </h4> 
 
-<p align="center" style="display"flex; align-items: center;">
+<p align="center">
   <a
     href="https://stackoverflow.com/users/10607362/paulo-lima?tab=topactivity"
   >
