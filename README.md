@@ -43,7 +43,7 @@
   Tools that I use 🖱️
 </h3>
 
-<p align=center>
+<p align="center">
   <img src="images/tools/vscode.svg" width="5%" /> &nbsp;
   <img src="images/tools/postman.svg" width="5%" /> &nbsp;
   <img src="images/tools/insomnia.svg" width="5%" /> &nbsp;
@@ -57,11 +57,11 @@
   Where to find me 🗺️
 </h4> 
 
-<p align=center>
+<p align="center" style="display"flex; align-items: center;">
   <a
     href="https://stackoverflow.com/users/10607362/paulo-lima?tab=topactivity"
   >
-    <img src="images/social/stack.svg" width="5%" />&nbsp;
+    <img src="images/social/stack.svg" width="5%" />
   </a>
   <a
     href="https://www.linkedin.com/in/plima-himself" 
