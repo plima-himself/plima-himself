@@ -61,31 +61,31 @@
   <a
     href="https://paulophlp.github.io/portfolio/"
   >
-    <img src="images/social/favicon.ico" width="5%" /> &nbsp;
+    <img src="images/social/favicon.ico" width="5%" />&nbsp;
   </a>
   <a
     href="https://stackoverflow.com/users/10607362/paulo-lima?tab=topactivity"
   >
-    <img src="images/social/stack.svg" width="5%" /> &nbsp;
+    <img src="images/social/stack.svg" width="5%" />&nbsp;
   </a>
   <a
     href="https://www.linkedin.com/in/paulo-lima-1218a9149/" 
   >
-    <img src="images/social/linkedin.svg" width="5%" /> &nbsp;
+    <img src="images/social/linkedin.svg" width="5%" />&nbsp;
   </a>
   <a
     href="mailto:plima.himself@gmail.com" 
   >
-    <img src="images/social/gmail.png" width="6.3%" /> &nbsp;
+    <img src="images/social/gmail.png" width="6.3%" />&nbsp;
   </a>
   <a
     href="https://web.whatsapp.com/send?phone=+5541997835546" 
   >
-    <img src="images/social/whatsapp.svg" width="5%" /> &nbsp;
+    <img src="images/social/whatsapp.svg" width="5%" />&nbsp;
   </a>
   <a
     href="https://www.instagram.com/pauleta_mexicana" 
   >
-  <img src="images/social/instagram.svg" width="5%" /> &nbsp;
+  <img src="images/social/instagram.svg" width="5%" />&nbsp;
   </a>
 </p>
